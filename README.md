@@ -1,7 +1,13 @@
-Monk9tech_VLSI_INTERNSHIP_TASKS
-Day 1 Overview of physical design
-Day 2 Github and Linux Overview
-Day 3 Basics of floorplanning + Github and Linux Labs
-TASK 1 Create Github profile & readme files
-TASK 2 Github and readme labs
-Terminal Basics
+# Monk9tech VLSI Internship Tasks
+
+## 📅 Day 1: Overview of Physical Design
+- Basics of floorplanning
+- GitHub and Linux overview
+
+## 📅 Day 2: GitHub and Linux
+- Readme files
+- Labs
+
+## 📅 Day 3: Terminal Basics
+- Linux commands
+- Practice tasks
